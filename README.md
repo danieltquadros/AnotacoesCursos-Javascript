@@ -15,7 +15,7 @@ Este material de Javascript foi produzido a partir do módulo 2, visto que o con
 Antes da aquisição deste curso, realizei o curso de Javascript [40 horas] disponibilizado gratuitamente pelo Professor Gustavo Guanabara na plataforma Curso em Vídeo.
 Ainda no módulo 2 as minhas anotações aqui estão mais resumidas, pois apesar de existir conteúdos novos para mim neste módulo, algumas coisas eu já tinha o conhecimento, ao decorrer do curso, minhas anotações vao ficando mais detalhadas.
 
-SUMÁRIO - Módulo 02:
+SUMÁRIO - Módulo 02: DOM
 
 - Aula 01 – O Que É DOM
 - Aulas 02 até 04 – Selecionando Elementos
@@ -31,7 +31,7 @@ SUMÁRIO - Módulo 02:
 - Aula 14 – Resposta do Exercício Scroll
 ___________________________________________________________________
 
-SUMÁRIO - Módulo 03:
+SUMÁRIO - Módulo 03: Conceitos Básicos
 
 - Aula 01 – Evento de Clique
 - Aula 02 – Evento de Teclado
@@ -46,7 +46,7 @@ SUMÁRIO - Módulo 03:
 - Aula 11 – querySelector e querySelectorAll
 ___________________________________________________________________
 
-SUMÁRIO - Módulo 04:
+SUMÁRIO - Módulo 04: Manipulações, Arrow, Ajax, etc
 
 - Aula 01 – Métodos de String (1/3)
 - Aula 02 – Métodos de String (2/3)
@@ -75,7 +75,7 @@ SUMÁRIO - Módulo 04:
 - Aula 24 – String, padStart, padEnd
 ___________________________________________________________________
 
-SUMÁRIO - Módulo 05:
+SUMÁRIO - Módulo 05: Requisições e Assincronismo
 
 - Aula 01 – O Que São Requisições
 - Aula 02 – O Que É JSON
@@ -93,27 +93,27 @@ SUMÁRIO - Módulo 05:
 - Aula 14 – Thumbnails com FileReader
 ___________________________________________________________________
 
-SUMÁRIO - Módulo 06:
+SUMÁRIO - Módulo 06: Projeto Compra de Pizzas
 
 - Projeto Compra de Pizzas - https://github.com/danieltquadros/uploadJavaScriptCompraDePizza
 ___________________________________________________________________
 
-SUMÁRIO - Módulo 07:
+SUMÁRIO - Módulo 07: Questionário Prático
 
 - Questionário Prático
 ___________________________________________________________________
 
-SUMÁRIO - Módulo 08:
+SUMÁRIO - Módulo 08: Projeto Urna Eletrônica
 
 - Projeto Urna Eletrônica
 ___________________________________________________________________
 
-SUMÁRIO - Módulo 09:
+SUMÁRIO - Módulo 09: Projeto Slideshow
 
 - Projeto Slideshow
 ___________________________________________________________________
 
-SUMÁRIO - Módulo 10:
+SUMÁRIO - Módulo 10: Projeto Validador de Formulários
 
 - Projeto Validador de Formulários
 ___________________________________________________________________
