@@ -9,6 +9,7 @@ Agora com este material pronto, percebo que estas anotações, podem ser úteis 
 
 - Auxiliar outras pessoas no aprendizado deste conteúdo.
 - Permitir que pessoas interessadas no meu trabalho, possam ter uma visualização mais específica do conteúdo que realmente aprendi durante o curso. Obs.: É importante relatar que além do conteúdo adicionado neste documento, os desafios diários da vida de desenvolvedor estão sempre me levando a buscar novos conhecimentos que vão além do que está documentado aqui.
+
 Obs.: Estou disponibilizando este material em PDF e também em DOCX para que possa ser editado livremente por quem tiver interesse.
 
 Este material de Javascript foi produzido a partir do módulo 2, visto que o conteúdo disponibilizado no módulo 1 já era conhecido por mim quando adquiri o curso da B7Web.
