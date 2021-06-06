@@ -95,7 +95,7 @@ ___________________________________________________________________
 
 SUMÁRIO - Módulo 06:
 
-- Projeto Compra de Pizzas
+- Projeto Compra de Pizzas - https://github.com/danieltquadros/uploadJavaScriptCompraDePizza
 ___________________________________________________________________
 
 SUMÁRIO - Módulo 07:
