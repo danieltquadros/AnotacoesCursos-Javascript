@@ -105,7 +105,7 @@ ___________________________________________________________________
 
 SUMÁRIO - Módulo 08: Projeto Urna Eletrônica
 
-- Projeto Urna Eletrônica
+- Projeto Urna Eletrônica - https://github.com/danieltquadros/JavascriptUrnaEletronica
 ___________________________________________________________________
 
 SUMÁRIO - Módulo 09: Projeto Slideshow
